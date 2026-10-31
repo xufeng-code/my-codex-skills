@@ -55,6 +55,7 @@
 ### 8. 汇报、评审和推动决策
 
 - `pyramid-communication`：把方案、复盘、报告和演示材料组织成结论先行、层级清楚的表达。
+- `reader-first-business-writing`：按读者角色和业务逻辑重构周报、方案、经营复盘与决策材料，补齐结果归因、信息取舍和行动闭环。
 
 ### 9. 把新的经验继续沉淀成能力
 
@@ -84,6 +85,7 @@ plugins/
 | [`signal-to-judgment`](plugins/work-derived-skills/thinking-workflows/skills/signal-to-judgment/SKILL.md) | 面对杂乱材料、反馈、研究或数据，难以形成核心观点 | 关键信号、竞争性解释、证伪条件和有证据边界的判断 |
 | [`human-ai-collaboration-design`](plugins/work-derived-skills/thinking-workflows/skills/human-ai-collaboration-design/SKILL.md) | 与 AI 完成复杂研究、分析、方案或写作 | 人机分工、推进阶段、检查点、决策责任与成品门槛 |
 | [`pyramid-communication`](plugins/work-derived-skills/pyramid-communication/skills/pyramid-communication/SKILL.md) | 汇报、方案、复盘或演示材料逻辑松散 | 结论先行、上下对应、归类清楚的沟通结构 |
+| [`reader-first-business-writing`](plugins/work-derived-skills/pyramid-communication/skills/reader-first-business-writing/SKILL.md) | 周报、方案或经营复盘堆满工作信息，却缺少读者视角、业务主线和结果归因 | 面向决策者、协作者与同步者的业务结构、因果拆解、信息取舍和行动闭环 |
 
 ### 从 GitHub 和开源社区收集
 

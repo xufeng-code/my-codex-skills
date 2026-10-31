@@ -1,0 +1,4 @@
+interface:
+  display_name: "读者优先的业务文档写作"
+  short_description: "按读者任务和业务逻辑，写出清楚、精炼、可决策的业务文档"
+  default_prompt: "使用 $reader-first-business-writing 帮我理清业务逻辑，并撰写或重构这份文档。"
